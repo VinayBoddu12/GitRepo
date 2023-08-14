@@ -1,1 +1,3 @@
-print("Hello Small and Big World")
+print("Hi")
+print("Hello")
+print("I am doing superb main, how are you")
